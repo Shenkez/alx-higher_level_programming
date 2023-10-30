@@ -1,0 +1,1 @@
+This repository is all about python as a high level programming language related to software engineering, expect a lot of tasks and project that will grow exponenetially from simple to complex as we go. thanks, take a chill pill and wait
