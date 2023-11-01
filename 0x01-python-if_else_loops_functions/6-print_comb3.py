@@ -4,6 +4,6 @@ for i in range(9):
         if i == j or j < i:
             pass
         elif j == 9 and i == 8:
-            print("{}{},".format((i), (j)))
+            print("{}{}".format((i), (j)))
         else:
             print("{}{},".format((i), (j)), end=" ")
